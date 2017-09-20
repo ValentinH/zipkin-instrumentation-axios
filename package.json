@@ -1,6 +1,5 @@
 {
   "name": "zipkin-instrumentation-axios-ricardo",
-  "private": true,
   "version": "1.0.0",
   "description":
     "Wrapper to instrument the axios HTTP-client. Forked from the original repository (https://github.com/uschmann/zipkin-instrumentation-axios).",
