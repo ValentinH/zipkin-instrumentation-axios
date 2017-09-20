@@ -1,4 +1,7 @@
-# zipkin-instrumentation-axios
+# zipkin-instrumentation-axios-ricardo
+
+Forked from `zipkin-instrumentation-axio` due to this PR not accepted:
+https://github.com/uschmann/zipkin-instrumentation-axios/pull/1
 
 Library to instrument the axios HTTP-client.
 
@@ -7,7 +10,7 @@ You need to inject you axios instance into **wrapAxios(axios, options)**.
 ## Installation
 
 ```bash
-npm install --save zipkin-instrumentation-axios
+npm install --save zipkin-instrumentation-axios-ricardo
 ```
 
 ## Usage
